@@ -1,0 +1,14 @@
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\bin\Debug\net6.0\Ucet.exe
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\bin\Debug\net6.0\Ucet.deps.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\bin\Debug\net6.0\Ucet.runtimeconfig.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\bin\Debug\net6.0\Ucet.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\bin\Debug\net6.0\Ucet.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\obj\Debug\net6.0\Ucet.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\obj\Debug\net6.0\Ucet.AssemblyInfoInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\obj\Debug\net6.0\Ucet.AssemblyInfo.cs
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\obj\Debug\net6.0\Ucet.csproj.CoreCompileInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\obj\Debug\net6.0\Ucet.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\obj\Debug\net6.0\refint\Ucet.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\obj\Debug\net6.0\Ucet.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\obj\Debug\net6.0\Ucet.genruntimeconfig.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni03\Ucet\Ucet\obj\Debug\net6.0\ref\Ucet.dll

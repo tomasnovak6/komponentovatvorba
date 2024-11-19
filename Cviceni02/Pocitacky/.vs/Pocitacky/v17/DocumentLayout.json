@@ -1,0 +1,162 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF13ED-861E-4EF6-8188-B4237BFC0A4B}|PocitackaDelegat\\PocitackaDelegat.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\pocitacky\\pocitackadelegat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAF13ED-861E-4EF6-8188-B4237BFC0A4B}|PocitackaDelegat\\PocitackaDelegat.csproj|solutionrelative:pocitackadelegat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF13ED-861E-4EF6-8188-B4237BFC0A4B}|PocitackaDelegat\\PocitackaDelegat.csproj|C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\pocitackadelegat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{4AAF13ED-861E-4EF6-8188-B4237BFC0A4B}|PocitackaDelegat\\PocitackaDelegat.csproj|solutionrelative:pocitackadelegat\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4AAF13ED-861E-4EF6-8188-B4237BFC0A4B}|PocitackaDelegat\\PocitackaDelegat.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\pocitacky\\pocitackadelegat\\vypocty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4AAF13ED-861E-4EF6-8188-B4237BFC0A4B}|PocitackaDelegat\\PocitackaDelegat.csproj|solutionrelative:pocitackadelegat\\vypocty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9731F-C204-40D9-BEF2-A2C4BC67B687}|PocitackaHezci\\PocitackaHezci.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\pocitacky\\pocitackahezci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9731F-C204-40D9-BEF2-A2C4BC67B687}|PocitackaHezci\\PocitackaHezci.csproj|solutionrelative:pocitackahezci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9731F-C204-40D9-BEF2-A2C4BC67B687}|PocitackaHezci\\PocitackaHezci.csproj|C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\pocitackahezci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{42E9731F-C204-40D9-BEF2-A2C4BC67B687}|PocitackaHezci\\PocitackaHezci.csproj|solutionrelative:pocitackahezci\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{42E9731F-C204-40D9-BEF2-A2C4BC67B687}|PocitackaHezci\\PocitackaHezci.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\pocitacky\\pocitackahezci\\vypocty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{42E9731F-C204-40D9-BEF2-A2C4BC67B687}|PocitackaHezci\\PocitackaHezci.csproj|solutionrelative:pocitackahezci\\vypocty.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7D1ED-1843-4EC1-9B56-8102F07FD464}|WpfApp1\\PocitackaOskliva.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\pocitacky\\wpfapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{7DD7D1ED-1843-4EC1-9B56-8102F07FD464}|WpfApp1\\PocitackaOskliva.csproj|solutionrelative:wpfapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{7DD7D1ED-1843-4EC1-9B56-8102F07FD464}|WpfApp1\\PocitackaOskliva.csproj|C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\wpfapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{7DD7D1ED-1843-4EC1-9B56-8102F07FD464}|WpfApp1\\PocitackaOskliva.csproj|solutionrelative:wpfapp1\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaDelegat\\Form1.cs",
+              "RelativeDocumentMoniker": "PocitackaDelegat\\Form1.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaDelegat\\Form1.cs",
+              "RelativeToolTip": "PocitackaDelegat\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:23:17.402Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaDelegat\\Form1.cs",
+              "RelativeDocumentMoniker": "PocitackaDelegat\\Form1.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaDelegat\\Form1.cs [Design]",
+              "RelativeToolTip": "PocitackaDelegat\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:23:15.598Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Vypocty.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaDelegat\\Vypocty.cs",
+              "RelativeDocumentMoniker": "PocitackaDelegat\\Vypocty.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaDelegat\\Vypocty.cs",
+              "RelativeToolTip": "PocitackaDelegat\\Vypocty.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:19:22.381Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaHezci\\Form1.cs",
+              "RelativeDocumentMoniker": "PocitackaHezci\\Form1.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaHezci\\Form1.cs",
+              "RelativeToolTip": "PocitackaHezci\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:14:57.848Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaHezci\\Form1.cs",
+              "RelativeDocumentMoniker": "PocitackaHezci\\Form1.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaHezci\\Form1.cs [Design]",
+              "RelativeToolTip": "PocitackaHezci\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-31T15:14:39.066Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Vypocty.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaHezci\\Vypocty.cs",
+              "RelativeDocumentMoniker": "PocitackaHezci\\Vypocty.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\PocitackaHezci\\Vypocty.cs",
+              "RelativeToolTip": "PocitackaHezci\\Vypocty.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAowAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:09:55.244Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\WpfApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Form1.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\WpfApp1\\Form1.cs",
+              "RelativeToolTip": "WpfApp1\\Form1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:03:24.261Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\WpfApp1\\Form1.cs",
+              "RelativeDocumentMoniker": "WpfApp1\\Form1.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Pocitacky\\WpfApp1\\Form1.cs [Design]",
+              "RelativeToolTip": "WpfApp1\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-07T15:03:22.456Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

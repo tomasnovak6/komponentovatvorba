@@ -1,0 +1,117 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni03\\ucet\\ucet\\availabletotalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|solutionrelative:ucet\\availabletotalexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni03\\ucet\\ucet\\amountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|solutionrelative:ucet\\amountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni03\\ucet\\ucet\\acountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|solutionrelative:ucet\\acountexception.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni03\\ucet\\ucet\\ucet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|solutionrelative:ucet\\ucet.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni03\\ucet\\ucet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5E3761EF-522C-43C3-B2C8-5E92C8DDAFF1}|Ucet\\Ucet.csproj|solutionrelative:ucet\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "AcountException.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\AcountException.cs",
+              "RelativeDocumentMoniker": "Ucet\\AcountException.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\AcountException.cs",
+              "RelativeToolTip": "Ucet\\AcountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:50:59.699Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AvailableTotalException.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\AvailableTotalException.cs",
+              "RelativeDocumentMoniker": "Ucet\\AvailableTotalException.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\AvailableTotalException.cs",
+              "RelativeToolTip": "Ucet\\AvailableTotalException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:48:44.479Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "AmountException.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\AmountException.cs",
+              "RelativeDocumentMoniker": "Ucet\\AmountException.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\AmountException.cs",
+              "RelativeToolTip": "Ucet\\AmountException.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:48:25.618Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Ucet.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\Ucet.cs",
+              "RelativeDocumentMoniker": "Ucet\\Ucet.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\Ucet.cs",
+              "RelativeToolTip": "Ucet\\Ucet.cs",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAgwCAAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:30:02.461Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\Program.cs",
+              "RelativeDocumentMoniker": "Ucet\\Program.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni03\\Ucet\\Ucet\\Program.cs",
+              "RelativeToolTip": "Ucet\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:29:41.548Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

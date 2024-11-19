@@ -1,0 +1,16 @@
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\bin\Debug\net6.0-windows\PocitackaHezci.exe
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\bin\Debug\net6.0-windows\PocitackaHezci.deps.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\bin\Debug\net6.0-windows\PocitackaHezci.runtimeconfig.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\bin\Debug\net6.0-windows\PocitackaHezci.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\bin\Debug\net6.0-windows\PocitackaHezci.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\PocitackaHezci.Form1.resources
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\PocitackaHezci.csproj.GenerateResource.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\PocitackaHezci.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\PocitackaHezci.AssemblyInfoInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\PocitackaHezci.AssemblyInfo.cs
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\PocitackaHezci.csproj.CoreCompileInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\PocitackaHezci.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\refint\PocitackaHezci.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\PocitackaHezci.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\PocitackaHezci.genruntimeconfig.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\PocitackaHezci\obj\Debug\net6.0-windows\ref\PocitackaHezci.dll

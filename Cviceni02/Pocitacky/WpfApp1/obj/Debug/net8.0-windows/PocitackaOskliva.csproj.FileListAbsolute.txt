@@ -1,0 +1,16 @@
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\bin\Debug\net8.0-windows\PocitackaOskliva.exe
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\bin\Debug\net8.0-windows\PocitackaOskliva.deps.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\bin\Debug\net8.0-windows\PocitackaOskliva.runtimeconfig.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\bin\Debug\net8.0-windows\PocitackaOskliva.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\bin\Debug\net8.0-windows\PocitackaOskliva.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.Form1.resources
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\PocitackaOskliva.csproj.GenerateResource.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\PocitackaOskliva.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\PocitackaOskliva.AssemblyInfoInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\PocitackaOskliva.AssemblyInfo.cs
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\PocitackaOskliva.csproj.CoreCompileInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\PocitackaOskliva.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\refint\PocitackaOskliva.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\PocitackaOskliva.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\PocitackaOskliva.genruntimeconfig.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\Pocitacky\WpfApp1\obj\Debug\net8.0-windows\ref\PocitackaOskliva.dll

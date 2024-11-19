@@ -1,0 +1,7 @@
+c:\documents and settings\jirka\dokumenty\visual studio 2010\Projects\Cviceni01\HelloWorld\bin\Debug\HelloWorld.exe
+c:\documents and settings\jirka\dokumenty\visual studio 2010\Projects\Cviceni01\HelloWorld\bin\Debug\HelloWorld.pdb
+c:\documents and settings\jirka\dokumenty\visual studio 2010\Projects\Cviceni01\HelloWorld\obj\x86\Debug\ResolveAssemblyReference.cache
+c:\documents and settings\jirka\dokumenty\visual studio 2010\Projects\Cviceni01\HelloWorld\obj\x86\Debug\HelloWorld.exe
+c:\documents and settings\jirka\dokumenty\visual studio 2010\Projects\Cviceni01\HelloWorld\obj\x86\Debug\HelloWorld.pdb
+C:\Data\soukrome\komponentova-tvorba\Cviceni01\HelloWorld\obj\x86\Debug\HelloWorld.exe
+C:\Data\soukrome\komponentova-tvorba\Cviceni01\HelloWorld\obj\x86\Debug\HelloWorld.pdb

@@ -1,0 +1,16 @@
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Pocitacky.exe
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Pocitacky.deps.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Pocitacky.runtimeconfig.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Pocitacky.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\bin\Debug\net8.0-windows\Pocitacky.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\WpfApp1.Form1.resources
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Pocitacky.csproj.GenerateResource.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Pocitacky.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Pocitacky.AssemblyInfoInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Pocitacky.AssemblyInfo.cs
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Pocitacky.csproj.CoreCompileInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Pocitacky.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\refint\Pocitacky.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Pocitacky.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\Pocitacky.genruntimeconfig.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni02\WpfApp1\WpfApp1\obj\Debug\net8.0-windows\ref\Pocitacky.dll

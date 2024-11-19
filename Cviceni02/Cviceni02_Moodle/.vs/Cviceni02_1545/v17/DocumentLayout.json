@@ -1,0 +1,116 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B7773A4A-058B-4B31-8771-B33046F4B18F}|HezciScitackaDelegat\\HezciScitackaDelegat.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\cviceni02_moodle\\hezciscitackadelegat\\scitackadelegovana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7773A4A-058B-4B31-8771-B33046F4B18F}|HezciScitackaDelegat\\HezciScitackaDelegat.csproj|solutionrelative:hezciscitackadelegat\\scitackadelegovana.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA1ABD9-E95E-4FD9-8FF8-BA6BFC340433}|HezciScitacka\\HezciScitacka.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\cviceni02_moodle\\hezciscitacka\\scitacka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA1ABD9-E95E-4FD9-8FF8-BA6BFC340433}|HezciScitacka\\HezciScitacka.csproj|solutionrelative:hezciscitacka\\scitacka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6CA1ABD9-E95E-4FD9-8FF8-BA6BFC340433}|HezciScitacka\\HezciScitacka.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\cviceni02_moodle\\hezciscitacka\\hezciscitacka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6CA1ABD9-E95E-4FD9-8FF8-BA6BFC340433}|HezciScitacka\\HezciScitacka.csproj|solutionrelative:hezciscitacka\\hezciscitacka.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7773A4A-058B-4B31-8771-B33046F4B18F}|HezciScitackaDelegat\\HezciScitackaDelegat.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\cviceni02_moodle\\hezciscitackadelegat\\hezciscitackaform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{B7773A4A-058B-4B31-8771-B33046F4B18F}|HezciScitackaDelegat\\HezciScitackaDelegat.csproj|solutionrelative:hezciscitackadelegat\\hezciscitackaform1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B7773A4A-058B-4B31-8771-B33046F4B18F}|HezciScitackaDelegat\\HezciScitackaDelegat.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni02\\cviceni02_moodle\\hezciscitackadelegat\\hezciscitackadelegat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B7773A4A-058B-4B31-8771-B33046F4B18F}|HezciScitackaDelegat\\HezciScitackaDelegat.csproj|solutionrelative:hezciscitackadelegat\\hezciscitackadelegat.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 5,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Scitacka.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitacka\\Scitacka.cs",
+              "RelativeDocumentMoniker": "HezciScitacka\\Scitacka.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitacka\\Scitacka.cs",
+              "RelativeToolTip": "HezciScitacka\\Scitacka.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:21:31.304Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HezciScitacka.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitacka\\HezciScitacka.cs",
+              "RelativeDocumentMoniker": "HezciScitacka\\HezciScitacka.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitacka\\HezciScitacka.cs",
+              "RelativeToolTip": "HezciScitacka\\HezciScitacka.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:21:28.503Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScitackaDelegovana.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitackaDelegat\\ScitackaDelegovana.cs",
+              "RelativeDocumentMoniker": "HezciScitackaDelegat\\ScitackaDelegovana.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitackaDelegat\\ScitackaDelegovana.cs",
+              "RelativeToolTip": "HezciScitackaDelegat\\ScitackaDelegovana.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:21:18.303Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HezciScitackaForm1.cs [Design]",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitackaDelegat\\HezciScitackaForm1.cs",
+              "RelativeDocumentMoniker": "HezciScitackaDelegat\\HezciScitackaForm1.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitackaDelegat\\HezciScitackaForm1.cs [Design]",
+              "RelativeToolTip": "HezciScitackaDelegat\\HezciScitackaForm1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:21:11.796Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "HezciScitackaDelegat.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitackaDelegat\\HezciScitackaDelegat.cs",
+              "RelativeDocumentMoniker": "HezciScitackaDelegat\\HezciScitackaDelegat.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni02\\Cviceni02_Moodle\\HezciScitackaDelegat\\HezciScitackaDelegat.cs",
+              "RelativeToolTip": "HezciScitackaDelegat\\HezciScitackaDelegat.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T16:21:06.54Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

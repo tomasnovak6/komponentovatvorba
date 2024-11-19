@@ -1,0 +1,7 @@
+C:\Users\jirib\source\repos\BankovniPrikladPatek\BankovniPrikladPatek\bin\Debug\BankovniPrikladPatek.exe.config
+C:\Users\jirib\source\repos\BankovniPrikladPatek\BankovniPrikladPatek\bin\Debug\BankovniPrikladPatek.exe
+C:\Users\jirib\source\repos\BankovniPrikladPatek\BankovniPrikladPatek\bin\Debug\BankovniPrikladPatek.pdb
+C:\Users\jirib\source\repos\BankovniPrikladPatek\BankovniPrikladPatek\obj\Debug\BankovniPrikladPatek.csprojAssemblyReference.cache
+C:\Users\jirib\source\repos\BankovniPrikladPatek\BankovniPrikladPatek\obj\Debug\BankovniPrikladPatek.csproj.CoreCompileInputs.cache
+C:\Users\jirib\source\repos\BankovniPrikladPatek\BankovniPrikladPatek\obj\Debug\BankovniPrikladPatek.exe
+C:\Users\jirib\source\repos\BankovniPrikladPatek\BankovniPrikladPatek\obj\Debug\BankovniPrikladPatek.pdb

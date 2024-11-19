@@ -1,0 +1,16 @@
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\bin\Debug\net8.0-windows\Pujcovna.exe
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\bin\Debug\net8.0-windows\Pujcovna.deps.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\bin\Debug\net8.0-windows\Pujcovna.runtimeconfig.json
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\bin\Debug\net8.0-windows\Pujcovna.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\bin\Debug\net8.0-windows\Pujcovna.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\Pujcovna.csproj.GenerateResource.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\Pujcovna.GeneratedMSBuildEditorConfig.editorconfig
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\Pujcovna.AssemblyInfoInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\Pujcovna.AssemblyInfo.cs
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\Pujcovna.csproj.CoreCompileInputs.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\Pujcovna.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\refint\Pujcovna.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\Pujcovna.pdb
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\Pujcovna.genruntimeconfig.cache
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\ref\Pujcovna.dll
+C:\Data\soukrome\pef czu\komponentova-tvorba\Cviceni04\Pujcovna\Pujcovna\obj\Debug\net8.0-windows\Pujcovna.Pujcovna.resources
