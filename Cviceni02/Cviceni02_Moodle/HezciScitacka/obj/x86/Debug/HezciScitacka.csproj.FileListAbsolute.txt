@@ -1,9 +1,0 @@
-c:\documents and settings\e14_00.lvt.003\dokumenty\visual studio 2010\Projects\Cviceni02_1545\HezciScitacka\bin\Debug\HezciScitacka.exe
-c:\documents and settings\e14_00.lvt.003\dokumenty\visual studio 2010\Projects\Cviceni02_1545\HezciScitacka\bin\Debug\HezciScitacka.pdb
-c:\documents and settings\e14_00.lvt.003\dokumenty\visual studio 2010\Projects\Cviceni02_1545\HezciScitacka\obj\x86\Debug\ResolveAssemblyReference.cache
-c:\documents and settings\e14_00.lvt.003\dokumenty\visual studio 2010\Projects\Cviceni02_1545\HezciScitacka\obj\x86\Debug\HezciScitacka.HezciScitackaForm1.resources
-c:\documents and settings\e14_00.lvt.003\dokumenty\visual studio 2010\Projects\Cviceni02_1545\HezciScitacka\obj\x86\Debug\HezciScitacka.Properties.Resources.resources
-c:\documents and settings\e14_00.lvt.003\dokumenty\visual studio 2010\Projects\Cviceni02_1545\HezciScitacka\obj\x86\Debug\GenerateResource.read.1.tlog
-c:\documents and settings\e14_00.lvt.003\dokumenty\visual studio 2010\Projects\Cviceni02_1545\HezciScitacka\obj\x86\Debug\GenerateResource.write.1.tlog
-c:\documents and settings\e14_00.lvt.003\dokumenty\visual studio 2010\Projects\Cviceni02_1545\HezciScitacka\obj\x86\Debug\HezciScitacka.exe
-c:\documents and settings\e14_00.lvt.003\dokumenty\visual studio 2010\Projects\Cviceni02_1545\HezciScitacka\obj\x86\Debug\HezciScitacka.pdb

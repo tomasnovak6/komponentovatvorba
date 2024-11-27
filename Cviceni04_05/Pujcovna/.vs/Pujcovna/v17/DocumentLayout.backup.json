@@ -1,0 +1,183 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni04\\pujcovna\\pujcovna\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|solutionrelative:pujcovna\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni04\\pujcovna\\pujcovna\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|solutionrelative:pujcovna\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni04\\pujcovna\\pujcovna\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|solutionrelative:pujcovna\\form1.designer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni04\\pujcovna\\pujcovna\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|solutionrelative:pujcovna\\cd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni04\\pujcovna\\pujcovna\\databaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|solutionrelative:pujcovna\\databaze.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni04\\pujcovna\\pujcovna\\zakaznik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|solutionrelative:pujcovna\\zakaznik.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni04\\pujcovna\\pujcovna\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|solutionrelative:pujcovna\\dvd.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni04\\pujcovna\\pujcovna\\disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|solutionrelative:pujcovna\\disk.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|c:\\data\\soukrome\\pef czu\\komponentova-tvorba\\cviceni04\\pujcovna\\pujcovna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0CA42B98-2F45-4E82-BB25-BB44FB55A9EF}|Pujcovna\\Pujcovna.csproj|solutionrelative:pujcovna\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Form1.cs",
+              "RelativeDocumentMoniker": "Pujcovna\\Form1.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Form1.cs [Design]",
+              "RelativeToolTip": "Pujcovna\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-21T15:37:43.017Z",
+              "EditorCaption": " [Design]"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.Designer.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Form1.Designer.cs",
+              "RelativeDocumentMoniker": "Pujcovna\\Form1.Designer.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Form1.Designer.cs",
+              "RelativeToolTip": "Pujcovna\\Form1.Designer.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAswDkAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T14:56:08.512Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Form1.cs",
+              "RelativeDocumentMoniker": "Pujcovna\\Form1.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Form1.cs",
+              "RelativeToolTip": "Pujcovna\\Form1.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAAADgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-14T10:24:59.172Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Databaze.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Databaze.cs",
+              "RelativeDocumentMoniker": "Pujcovna\\Databaze.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Databaze.cs",
+              "RelativeToolTip": "Pujcovna\\Databaze.cs",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAACsAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:20:58.536Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Zakaznik.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Zakaznik.cs",
+              "RelativeDocumentMoniker": "Pujcovna\\Zakaznik.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Zakaznik.cs",
+              "RelativeToolTip": "Pujcovna\\Zakaznik.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:21:10.545Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Program.cs",
+              "RelativeDocumentMoniker": "Pujcovna\\Program.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Program.cs",
+              "RelativeToolTip": "Pujcovna\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:21:08.209Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "DVD.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\DVD.cs",
+              "RelativeDocumentMoniker": "Pujcovna\\DVD.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\DVD.cs",
+              "RelativeToolTip": "Pujcovna\\DVD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:21:04.328Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Disk.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Disk.cs",
+              "RelativeDocumentMoniker": "Pujcovna\\Disk.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\Disk.cs",
+              "RelativeToolTip": "Pujcovna\\Disk.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:20:59.408Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "CD.cs",
+              "DocumentMoniker": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\CD.cs",
+              "RelativeDocumentMoniker": "Pujcovna\\CD.cs",
+              "ToolTip": "C:\\Data\\soukrome\\pef czu\\komponentova-tvorba\\Cviceni04\\Pujcovna\\Pujcovna\\CD.cs",
+              "RelativeToolTip": "Pujcovna\\CD.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-11-13T20:20:55.103Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
